@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amyik
-- 👀 I’m interested in many things
+- 👀 I’m interested in Srping Java, Java Script, K8s, Machine Learning(using pandas), Oauth2
 - 🌱 I’m currently learning istio service mesh
 - 💞️ I’m looking to collaborate on whatever fun
 - 📫 How to reach me ...amyik100@gmail.com
